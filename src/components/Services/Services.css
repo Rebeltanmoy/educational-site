@@ -1,0 +1,9 @@
+.services-content{
+    margin: 15px 0;
+    text-align: center;
+}
+.services-content h2{
+    border-bottom: 4px solid #ee9b00;
+    border-radius: 3px;
+    display: inline-block;
+}

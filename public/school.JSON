@@ -1,0 +1,149 @@
+[
+    {
+        "name": "BUSINESS LAW",
+        "rating": 2,
+        "price": 170.75,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "data:img/jpeg;base64,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"
+    },
+    {
+        "name": "A THEORY OF JUSTICE",
+        "rating": 3,
+        "price": 180.75,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgUFRQYGRgYGhobGxsbHBoaGxoYIBoaGRsbGxkbIC0kGyApIBgaJTclKS4wNDQ0GiM5PzkxPi0yNDABCwsLEA8QHRISHjIrJCkyMjIwNTUyMjIyMjIyMjIyNTIyMjIyMjIyMjIyMjIyMjIyMjsyMjIyMjAyMjIyMjIyMv/AABEIAMABBgMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQQFBgcCAwj/xABGEAACAQIDBQQFCAcHBAMAAAABAgMAEQQSIQUGMUFRImFxkQcTgZLSFjJCUlShscEUI2JygsLhFTOistHw8SRDU8M0RHP/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAkEQACAgICAgIDAQEAAAAAAAAAAQIRAyESMQRRE0EiYXGhFP/aAAwDAQACEQMRAD8A2akNLSGgEBvXVcqtq6oAooooAooooArknlXVcFedAdUtFFAFFFFAFN5cSinKzqCeRYA+RqD3y3lGBhEuUMzNlVSbXOVm5a20HLmOFYDtXasuLkaWRjd2NzYlVvyUHgLC3gKlIH0lJtWFb5pAANSTcC3idKMLtaGQ2SQEnQDUX8L8eHKvmaPFiInIo+bY/R1NtRbnp/SnGH25iIwWikKBuKgXFjrzGnG+nMA8QCJ4g+oKWvn7ZvpCxa2vMxPMt2wRYCwVtAdL3A4mtY2Rt52aPOyvHNpG40bNa+VhYA8DqBb8zgyLLTRRRVSQpKWkNAIrXrquVW1dUAUUUUAUUUUAVyTauq5K3oBbUUtFAJS0UUAUlLRQBRRSUAtJRS0AUUUUAUlLRQBUdtra0eFiaaUnKvIC5J6Aewn2VIVknpT3hd3/AESI9lR+s/e77ixAFx4342qUrBR8ZjZZ5Wndy4GYjMc7C5uQNezryGgsOgqEOKRV1Ulg17m1j4jzolxIAKpm5635d4GldYDY0s3zVIXm1tP61aUkiYxb0hniZQ19AvQDUV5oxA15/lU1iN1plIARiORsdaj8bs94iFYEeNUU0+izxyXaG4Ot60z0UYwySjDOxKhllQX0DIdePC4PLoKzQCrf6OcZ6rH4djaxbIb/ALalB97CtV0Yvs+i6K8jKvDMPMV6VkXCloooApKWigCiiigCiiigEpaKKAKKKKAKKKKAKKKKAK4db11S0AgpaKSgFooooAoopKADVN3q3Ninhf1aKspJYPqWYm5KljcgX1twGthrVypaJgxzZG4KrGvrl/WAnMOhudO8VddmbJSKMIqiuN4N4Vw05SWNwr5cjjLlc5RcDW9wa6xO2AI/WRoXB4W/PpXPNU7Z2Y23FJIXExC3Cs63m3bllkLrkt0JI/KpBt6sXLI6LGqZAWNkaTQW+k1hfUaAE9Kk9kGWVc8nA9VyH3aq7j+SNUlJNSMmxmAeJzG62Ye247jzqz7s7szH1WIBUWljKoeJAdTcn6PcLeVSe8+zA0kUvIOqMO7MP9TVx2HhSXRASQGJPG1lYNcA8OBFxoSfGtVmdKjF+PFOV9FrfDNduzxYm9xwvfr0qTpKWtTkCiiigCiiigCuHF66paAQUtFJQC0UUUAUUUUBG/2qn1h5P8NINpJ9f7j8NVNdon6qn2CneFnzEl8oUC/DjfgT3de+wrTiU5FhG0kIuHuOttPO1q5O0V5ya9LAfmKr2Kxfbayg66adwDA9dRx/2GrYnT5i6C33k9e+o4k8izPtNfrk+GX46htq7wZRZXkB5Zcn5sagsZj7A2VfYf61GYWMu2dlHHhm77dasolHIb73bdxcccbpip1LuwIzZezluuq2+qfOrt6LdsyYrBEyuXeOV0LNqxFldcx5kB7X7hWcb/8A9zFys6/5HHlpVu9Bz/8AS4hek4PnGg/lqJ9FoGm0tFeZJv3VmXO6WiigCiiigIjb+zYp0AdVJVgykgEqw1BHTUCmC4NUjcD6RuTpqbanTwqxSxhgQedVXHYx41dChZxc2HMHgR3VlkOjC70hcLhInGoF6XHMka2UCq1HtFpDnZcmUHs63A5k68dOOleCYqRgS5a12yA2uVBsCbda526R2KFvs5xyCS99QCD7Qb1O7l4hjiMrNceqcgWA1zx9KrmJey95tp1PTzr1jleEq8TWdVNuhuNQe41EJVJNjLFyi0jW6Kz/AHV9IkeJcQSqYp75SjfSIBJyMNDw4HX8avytcXruPLOqSlrzL0B0xtQrXrzUXr0VbUB1RRRQBRRRQCUtFebE3oDuilooDGl2gtwbqPd077X1tT3+1rAhHS/W/suBbXS1+FyOVUdnIPn520rpJO+tzAuIxA5knwPGuZMQPqH2mqzC56/8af1pwHPWrULJNnvxA8/606gYAcF8+9e+oyGQmpGFzprUtCyD3z/uF7mTnf6w/OrL6C5ezjE6NC3vK6/yVW99GvD7R/mX/Wpn0GSfrcWvVIT5NIP5qyydF4Gx0tFFZGglLRSUAUUUw2pjRGhIeNXIOX1jZVJ7zxt4USslJvo7x20I4VzSMF6DUsT0VRqx7gKqm095MHO6wmPEevKsVRoJUfLa7fPC6WF9Dy01qjJHjE2vhjiSWaSVcrg3R0DDNkYaZQp+bpbTTWtoVKvOCWuxGVU1pmdy4eW4jSFgv1ma49gJ0Psv3002u4iXtMLnQU09JW9pgxJhw5BYf3l9VUkAgfvG9z3W5monAo+IiSd2YuQT3cSDYcuH31w5INbZ6OPNy0h5g4Xdw76AfNXn4mpRzUdC5GhBp9hYXkdUQZmY2A/Ek8gBqTXM7kza1FWPd09go2LOKKi8SlVP7bCx8lJ9+rttDaiYWJpXDFEsWyjMVBNi2XiQLi9q52Vs9YYwim5JuzfWY8T3DQADoBRtvZa4mB8OzsqyLlLJbMNQeYI5ajmL16WONRSZ5WSXKTaHOzNrwYlc8EqyDnlOo7mU6qfECniresXb0c7QhmBgdSB82VXMbAftL85TpwGYd9S+zd7NqYS64zCPLGhsz5CrDncSIDG4tz82rRr0Z2asBS1A7B3rwuLH6qUB+cb9lwemU/O8VuKnqqSFFJS0AUUUlAFLRRQCUUtFAfNsnGulFEia12i1uZHSG2lO+VNVXWnqCrIhnrhxT6NjcAd/3C5+6mcYtTgcQbkdLXH4VYgjt7CTA4Nrq1tO5gfyqQ9CEn/WTr9aAH3ZFH81R28v/wAd/M8+R/0r09Cr22iw+th5B/jiP5VlkLwN8ooorE0CkpaQmgPN3AFydBzrKN6tsh5mcG6iwXW3YBsTGeTBrkjifAWq37ySyyqYo5BGpuHYas4IKlV07ABIObW5Ui1uOU7w7t45CXUiVBrZCSwFhqUbVjYC5W5NWhkgnTezt8SaxSc5RbJbd3avrJ8NEVzEYhHWwy5GDEF7DSzRtJmA00XpWwTu9uzYHh117qwP0fYj1m0MMODZ2PiBG7H7ga3snXwq0+yvmShKfKH2jONv+j1sTjYpGa0bXExB7bFdVC97DQtyC9eLvZckM0X6pVVY5HiKj6GViEt3FcvvDpVz2hiAilzwRWY+xWNYPudtYRTESSFI5VIkPEZrEqxHc3Plm6VnOHKLRxxy/HJMvG3cRFhkzyBzfhlRm15AsBlW/eRerDuBgnEBxEqZHnYlVPGOIaIh6E2Lnge0AeGntutjI8RG5jkD5HAZl65AfDpU+sIViV0LHXp5de+ssWJRVvs3y5nLS6PdRbSl51zn6j2jX+tANbGB2wrxxeKSJGkkYKiAszHQACvW9ZV6ZtvMpiwaG1x62TwuVjHfqHa37K1MVbolVeyt7z7bXFYlsQ4CKAFjHBsgJIZiNSxJv3aDlWiejXev9KVsPI2aSIAhje7Je2t+JU2F+dxzvWEZixAAJZuAF2Zj4cTV19EztHtRUYMpeOVSrAqeAfgdfoVtOK4nTk8lTgoKKSXXs+gKb4qUqAQNSQK9685IwwsR38xr7K5zmPLDTFiwNtLcO8Xp1XlHCFvYceOpP4160AUUUUAUUUUB88SJSotPf0NjfLY2NjY3seh6VyMIw5VuYDUJTmOleAg/8H7xXapUoHYNemevO1KG61cDTbesLDu/Iim3oglttSIfWjlX/Bm/lpztJbxsOtvxFRXoyky7Vwp/ace9DIv51lkL4z6UoorknlWJoLUftbF5FtfVtB3Dmf8AfWnc0oRSzHQC5qg7X2mzuWPsHQdKyy5OKNsONzkOJJrnSvJ5KY4XF3NqXGTAa1wVez0KrRSN9FOHnjxmHcxyFiCV0OYqRmHK5XMD1vT/AGJ6V8SllxKJMul2W0b25mwGVj3WXxFJ6QdmBMJDK9/WTSXVT9GJVJOn1mJQk8hppc3z1YWuAFJJsAF1JJ0AAHO9etgvilI87NBtuUVo2XeffXC4jZ+JaB3zZFQqyMpX1hKAXIynTPwJ+aayBW/AVrXyYTC4LD4eTJmd8+JzWId2QgIM2gy2sLW+bfmb1TE7hT5FliyMGB/VlsrLqRlVmNnGmhJHKr/w48kbLT6E5bJioz9aNx7Q6n/KtabLIq3ZiFVRckmwA6knhWUejLZmMw2Lf10DqjxEAmxGdWVlF1JtcZ6jvTBipP0tIy7iMwxuI7nJnzyAnLwJ7I1NQo26LwtR2Xra3pIwEIISQzOBosYJUn/9DZLeBNVHFel+Ug+rwkaHkXdnt/CFS/nWYFq9Fgc65T7dPxrVQijSEJydRTf8LNtjf7HTm5nMYAtlhzRr4k5ixP8AFypnCIcod0eeVwCzyuwRT0VVbM9uGZmsbfNFRAwpzAE95tyFPy3ePMfgBS0en4Xhq3LKv4ia2bvNPhtITEl+IWGFb+JVAx9pq87h71zYvErFMkbZFZ1YLZlIGU8yNQ9tLcayuRSOJ49B+daD6GcNfETyfUjVffa//rqkmqOny8eJY3JJL+GxUtJS1ieGFFFFAFFFck2oDqiktRQHzzv/ALBbDzpio8ypMQCykgpJaxFxqAwGYd+anm72Jk9WGkmbgLZlEhJuOJYggd962XaewYJ42idOw4sQNO8EdCCAQRwIrItrxJHI8aE5UYopPEhezfTwrWDszkqOcTtlxOsRgSTPopSTK3O5KvfQAE3va3OvP+2sIWKMzRsDYhlNr/vLcedVvGCSScLHmLLouW972zEgjhbmf2a9sNs452LPmLDU6Dtk3uWY2Avz0NWILMqq4zRuHXqpuPurlhavefGx9tklikOYljGTckXzFs6Ak+DNw00OjdZ1cXBqyKs8sT80/wC+dVjc1/V7Rwp6YiNfYzZP5qtE47J8DVR2acmNib6mKjPlMtVydF4H1JXOXWujUPtTabRSxoFBV1fXW4YcPZXPKSStm0IOTpEfvPj/AKAOg497f0/GqZO5N6kNrT5mPPU69/Oot30rgyvlI9LDHjE5wj2cknlVp3d2GZmE0q/qxqqn6Z5Ej6v4+HHy3N2Csl8RKt1vZAeBtoWI5i+gHce6r7at8WL7ZzZs3cYmQ+nBryYVeiynzMY/lqF9FmyxLi/WOLpAA+vDOTZL+Fi3ioq3+k/JJNDhjh88ksU3qXDZWSRBmy62BUjvqO3ewkuD2c91KSTuykEWdCWEYPsjWRxXbHoRzKOFpd9HeP2u+IaSZFLoCBFlJa653UkAGwPqwra/+QeFTex3BjKD6DsPvzae9WdT7QOBjKRgFxOroG1T1RTUW46MijQi2Y9alN2t+I2lKzsI82uZiSha5Y3a3Z42F9AABVutHn3s0/Bntr7fwNZj6YIQ2MiueEI0H771fNlbZw8kqJHPE7EMcqSKxsFNzYHhVE9LmmLjPWFR/jkqI9nb4UYyyJSVoqu7mzEmxMcJJVXLXI1NwjFePeBWk4j0eYYxqqu6uOL3BLeK2t4WA9tZbgMWYpY5F4oysB1sb29vCtwO3IjhhiVYMrAZepdjlVLcjmNrctarklTtvR3+VKeNr43S/Rje0908ScRLHBG8iI+QOSiBrAX1YgHUkadKZTbo45Bc4Z/4Wjc+SsTWx4a9rk6nUnqeJr0kfSuL/sml0jneHk+TbswfGzyhssisjC/ZYMDrrwfl4VtnoXw1sE8pFjJKw8VUBR/iz1GbYRJFKuisvRgD5dKu+42y/wBGwMMPQO3sd2kAJ6gMB7K2x+R8iqqM88JY1x5WmWKiiitDkCiiigCuWW9dUUAl6KWigIfGs0UbyK5sqk5X7QvysxOYEm3Ekd1Y/jQCSTwGpNaRvxtDKgiU6nVvD6I/P2Csx25MEiI+k5yjw4sfLT+Kt8a1ZjN7oc+i/ZwmxrSNcCNGe4NrOXULr4M3lWnbQ2PhpriaEGQAm6gK7gc1ZbZr9ORPhVA9GE0Ma4iSV2Ukoq5S4NhmY6px+cOPSrycZBL2f0pwL6BxHa/LtSRnXvveqyWy0ejPcVsXDxsf0cSJ2iSrlX7R6WsyjxDVB4nBSxuSq5l55SCR4L84j2VqWP3SWU5zPNfkwYE28SCD7ajl3NeMkxSkgm5D63N9fmkffp3VPJENMo+ExocZToe/Q+VVzFxssrMo1Dhh4hgw++tDxm7mIX50KuBzUgny0qPwmzlknRJEkU6nK2YBiFJsR808Oh4Uk/xsmCuSRcNk7y4wx55vVPc3XIrLddP2yBzN+/hXW2NthjG0iFMhZic2YZbWOtgb8Da1cT4ZrZQAAOFuS2FqhttSkOkbKGV289LFT43rgnNytHrePijFpv8Af+jrGoSb8OduflUXKCSFXVmIAHUk2H31MyrpcggnUk9OdUPaW087lI/mg6nqeQH+vWohj5SK5J8EbZgk9VEiZtEUC97C9tT7TevQYq/B7+Df1rFsNtPEIto8RIBwAzs4J784N/BRbvqbXe7Eo2ZcjhRlIZQed7s6sAg4DXpwHCu3iec2TfpC2JNiVjkgkZZoM5SzEEhsubKw1DdkW66jnp77TxMcjRwK+fInrDc9okgxox77CS/jUMnpBkJ1wXrAOcbMQTztdNfZXhj9trLJHNFhMSj5rSBoWtk14OBYm9jb28bgypU1YcW1oht8sLaFmYaoVynxYLY+dVTDbExMoumHkYWvfIQvsZrA+datiYllQ6G56gg38Gpkdo4yJBaBHVRr+s7fsXLb2ZqmeSN7aKrDJ9JlU3Ehnw20YfWxvGGLoSUNu1G4XtEZT2svOrpvvuzNipY5Q6KiRkSSSEAKA7Nfv7Ldw04immxN5kcoZcqsCDJluMtn4lGOYDgL668baUvpGjkxfqlg9ayAMZFU5EftLpZyAzgKSLgjjzqrlFPs2w84O4oZQDYkJNjJimQXYgMyKLE3YgKltDzbuvTqDedJn/R4MPFCgszAfOZNe2mUBCCcna1NrggVW13blCqFyRkHMLsWAawuRbMWRlJUhiNVuAASKe7G3d9Q/rPXFjlZQoWygFs2UAkkC4rDLngotXs6IRzTknK6/ZeoJRa1eWJmsKhhI6a5r+PSuZ8ZcV5cnZ3qFHrBAcRMkI+m1m7kGrnyB9tq1lRYWqk+jvB3WTEkas2Rf3RYsR4sQP4KvFeh40OMb9nneVk5Tr0LSXpa4cXroOY6paQUtAFFFFAFFFFAZZtaSOxLNkCi/a6DmD9L2Vme0MY00hYK2UaKLE2XvtzPE/0rXtr4OQAiXDq6/WCkfet1HlVVxGyo2vlLp3Z2Kj2X/KumPRz9Mjt2oyITcEEux1FjyUcfCpM5x1tUb6uSK0YIccrlhbzFI+05k7OQedxTiyeSJ7BbRljPYdl7gdD4rwNWLBb0NwlQH9pdD5HQ/dWdnasp0sgPdxpxDBjZPmRyH91GA87WqHD2SpejVsNj45PmML9Do3lz9lLiYdDpWc4XdLaLkEhkFxqzqpA7rXN60vDRlQkGrlUALM12AAsGZrasbfjWU46pF4yppsiil2C5rEefhr+Brwxuz43VlcgWGa/Cx+sDyIqXxmzQ2roWYcGU2NvEG/spnJC3AxuVJAJy3Nut+dvyrj4P0elDKtOypbQjmliyoyliLaXGnO51saq8mxZox2oWsOYUP+FzWjnBMjnKjW5HQX1PH7qkkwxNuyfKunE+Mdo5/J/KVp6Mt2VsWTEMQoKAWzOb9nwDXu3cB41bsLuzApCZPWka9s5lXvy/NX2CrBNgWvlW6jXtEDj4VwYJBZY1J6nr3seF6zySlJ6NIRhFexk6LDoFVVPQBR5Cu2wfYzsLE6gd37XQnpTlNngHPIDnU9kE3F/rZQbacr1HbWw+KdbRAAc81zcdNCLVj8cmzTnGlsZxoXawsPCvB3ysVPI2/wCelSmzMI0aiSRFVwDlVTcdMxNrkn7r12uzmkZnsAGFtT+QvVfjbNHOMfvRQN58EqSqwyhZFJkDcLLYXB66r5HrUxsfaBbDpcENqt73uFbKrdb2UEa6XNMN5d0MdNIf1aGNF7D5xYqDdtDrnI5Wt2TrwrywLpHGkatcKOPXmT5mrZU1BL7McTUsjf0TDPr41z6yow4yvFsdXHwZ28kSks+nGmM89gaYPj++nGwZ0lxuHhbtZ5Fuo+qLub93ZtV4Ym3RSeaMVZsm6uBMOEhjIswQFh0Zrsw9hYj2VMUUV6SVKjyW7dhS0UVJAUlLRQBRSUtAFFJRQCU0xOAie+eJGPUqCfPjUJ8vdnfah7knwUfLzZ32oe5J8FTTIHL7sYV9Wi17mcfcGoTdPBA3/R0P7xZ/8xNNTv5s77UPck+Cj5ebO+0j3JPgqbl+yOKJvD7PiT5kaL+6qj8BTjLVc+XmzvtQ9yT4KQ7+bO+0j3JPgpskncTJlFhqzaKPzPcKXDYcIONydWJ4k1XI999n3zNiluf2JNB0HYr3+XmzvtQ9yT4KO6pFUt2yfcgcxXiX14j7qgH332cf/tD3JPgps+/OzhwkzfwOB961KTLFsyd1IwHSqW2/mH+hJEvisrfgorlN+ogbnFRMOnq5B5ECp4MFyKBtOp/5+69OcgAsBYVVY9+sBoTiANOGSQ2PuePnXD+kDAX/AL4nvCP+YqOLJss0sQPEA+IrwbCIfor5VBJv7gD/AN+3iknw138udn/aR7knwUpkExJhFNiVvbvP+tOEw6gfNFQC787P+0j3JPgrs797P+0j3JPgqKZLbZLpEDe9UTaWxonJvEl7nUDKfNbGp2LffZ4OuJHuSfBUFit5sEZHImGUsSDlfmb/AFalR3si2uiN+TUX7fgGP517Qbrw80Y+LN+Rp4m82BH/AHh7r/DXR3rwX/mHuyfDU/HH0Tzl7KX6SFhgiiw8SKru3rHKgBsigqoJ4kEsfcqM9FERfauHP1fWMfZE4/Eimm+jmfGPJG2dGCZTwsAgBUBrHRs3nUz6KcTFhcW8+KcRqImRLhmuzMn1QbWVT51Vr0hZ9BoetdVWfl7s77UPck+Cj5e7O+1D3JPgqtMFmoqs/L3Z32oe5J8FHy92d9qHuSfBSmCzUVWfl7s77UPck+Cj5e7O+1D3JPgpTBZq4Y61XPl7s77UPck+Cj5e7O+1D3JPgpTBZqWqx8vdnfah7knwUlKYMFrV9m7vYMYLDSNhY3kliV2zPMGY5AzFVjVydSL6AC48Kyir1gN+okggikwrs0EYjDJMyErZQwOUA5WyKSpJGg6VtK/ogbekDZ2GiXCSYaL1azxO5W5PKNlBuTqM5GlNW3a9UjyOS49VPZWQxukiRq6nLmJt2vpWOmq1471bxpi/0dY4TCuHUogzlzY5ANbAiwQa6nWmMu38QwYGRRnMhbLHEmZpBZ2JRBdmAF240V0CRm3UKLnaUqgWRnzRlXX1aK7DJmJNw2l8puNQONcDdkM2SPEK7Zo1sY2QXlieWEAk6lsoUj6JcatrTGfbuIcMrOtnzl8scSZjIMsjNkQXZhxY61zhtquJA0hZ1zROyqVjLGFCkXbynLYaXAuRfnYhsHeH2PmmSFpFVnjWRrjVS0frFjAYgM5UqLXGrW5U8fd+MRB2ldCpnMgeM3VI3jjXKma+ctKgykj5/EZTeJl2jI0rzNkZ3ZmbOiSISxJIySBhbXTpTj+3cQb5pFbMzs2dI3zest6xSGQ3RsqnJ826qQAQKnYHcmwUjKGSYZZGHqgqMfWJljkuxuPVgiVBzN78hek2psP1eMXChgrSTBAtiRGkkmWLMxPaORlYjkCNSb2attydr5nRrnMM0cTZGyql0un6vsogslh2R0FLHtiQzwzSnP6mVZBooYgSiVkzAXtmzWB0XMbADSmwSMGw4fUPK010ITJII3zI4mWORfV5u1cMtiTwa9gRauDuzlkMbzAOBI5QIxBijkeN3D3AzWR2C21A4gm1RuI2xM6GMsoQgDIsaIoAfPoqKACX1JGp56V6SbdxDBryC7Z7tkjD2dzI6hwuZULktlBA14WqNge43d5Fd0Sa5viDEjIbukLOHzODZW/VSAaWbJfs5gKr9Sc23p3DZnTt57kRxKwEn94EYICgfUsFIuSx+kbxlSgFFFFSAooooAooooAooooAooooAooooAooooAr2wqKzWdsosde+2g7q9sPjlRQphie1+0wJY3N+N+XD/Yr0TaKi/8A08R1J1B06DjwFQAXCwdq8x0OgCntC1735a00xKKGsjZhbjw/319tqc/p63B9RHwAItoSCTmtyuCB7PEU2xE2dr5FTS1kFhxOtuuv3UB5UUUVIP/Z"
+    },
+    {
+        "name": "ECONOMIC ANALYSIS",
+        "rating": 4,
+        "price": 200.75,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDYRqnu8kgkagoTGk20q9zWN0vAVofJEc3A&usqp=CAU"
+    },
+    {
+        "name": "CONTENT STRATEGY",
+        "rating": 1,
+        "price": 400.75,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sznjxDUxFtOLCM_oO3JyG13wBRL6isdf2A&usqp=CAU"
+    },
+    {
+        "name": "LAW AND ECONOMICS",
+        "rating": 2,
+        "price": 150.75,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50lgehEso12V5N_auCf-pJgBhIR4keqBwlQ&usqp=CAU"
+    },
+    {
+        "name": "HOW JUDGES THINK",
+        "rating": 4,
+        "price": 100.75,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRycG7sfbmby2hu7OnIP4S6G-ndZn0iHsSZVg&usqp=CAU"
+    },
+    {
+        "name": "EPIC CONTENT MARKETING",
+        "rating": 5,
+        "price": 300,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-8Y89YOt817_Wf4A8CVD1HT991jGTLADLg&usqp=CAU"
+    },
+    {
+        "name": "Mini-МВA",
+        "rating": 3,
+        "price": 100,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6MFJ-2YunjuZn81QEPd0nvCxTsxPalMEE9A&usqp=CAU"
+    },
+    {
+        "name": "Langurating Trainings",
+        "rating": 4,
+        "price": 140,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GkXpPWf_RR7uNx1qPXTf9pma7jAdxEn5Zw&usqp=CAU"
+    },
+    {
+        "name": "Langurating Studies",
+        "rating": 2,
+        "price": 400,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpbGPYcusCh4a3gw7a879IvjodJjQJdTr3A&usqp=CAU"
+    },
+    {
+        "name": "Second Langurating",
+        "rating": 3,
+        "price": 200,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHXY8A3NHixbQOWfZJ8EFu4QdxppSMOvovg&usqp=CAU"
+    },
+    {
+        "name": "Mini-МВA",
+        "rating": 4,
+        "price": 200,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarQdtNi9nZXePCPPSm8_fIVZLIo2P_beBLA&usqp=CAU"
+    },
+    {
+        "name": "English For Children",
+        "rating": 5,
+        "price": 400,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOV7BfVQ0kFJOMjxrFohfptskr-BE5idayQ&usqp=CAU"
+    },
+    {
+        "name": "Basic Skills",
+        "rating": 2,
+        "price": 250,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3onP9_xl6NSzGcpXBf_gof7hX9rIkEeWvw&usqp=CAU"
+    },
+    {
+        "name": "Mastering Grammar",
+        "rating": 5,
+        "price": 300,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZq9bHE0BEA2NMV06nEsyh5ZLQ8ZlJV6S4Q&usqp=CAU"
+    },
+    {
+        "name": "Langurating Studies",
+        "rating": 4,
+        "price": 140,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmkLEfTECKBjMwsXypEHAyj18mvUpjsb1lg&usqp=CAU"
+    },
+    {
+        "name": "Intensive Course",
+        "rating": 3,
+        "price": 200,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8Dqz9A7TdgKGmrUSek0buaCBvTn3MkRf0A&usqp=CAU"
+    },
+    {
+        "name": "Langurating Trainings",
+        "rating": 355,
+        "price": "Actress",
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37avFUHhQifgK1nEpfK0TP1PFgEi3NIrllA&usqp=CAU"
+    },
+    {
+        "name": "ILangurating Trainings",
+        "rating": 4,
+        "price": 300,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN67-MWZCXgu4NElE_IyFDV662buzLQFI3Xg&usqp=CAU"
+    },
+    {
+        "name": "Lingvo Diving",
+        "rating": 3,
+        "price": 100,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJp5prdicCEClyjJoFFq-fGsWS2-DlDmRr-g&usqp=CAU"
+    },
+    {
+        "name": "30-60-90 Business",
+        "rating": 2,
+        "price": 200,
+        "description": "Quae necessitatibus earum nam aliquid dolores ratione dolor eaque magni error? Beatae dignissimos maxime assumenda velit? Debitis, vel amet nulla quisquam cumque labore soluta pariatur necessitatibus inventore aliquam.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFz9YbBzpACypNq-ezkVtJE-V8qYs3jsTBnQ&usqp=CAU"
+    }
+]

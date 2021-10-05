@@ -1,0 +1,14 @@
+.slider-img{
+    width:100%;
+    height:100vh;
+}
+.banner-text{
+    font-size:30px;
+    font-weight:bold;
+    color: #191919;
+}
+.banner-content{
+    color: #00b6b6;
+    font-size:20px;
+    font-weight: bold;
+}

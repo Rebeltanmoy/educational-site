@@ -1,0 +1,43 @@
+.about img{
+    overflow-x: hidden;
+    width: 100%;
+}
+.about-item{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3,1fr);
+    margin: 15px 0;
+}
+.about-item h4{
+    font-size:27px;
+    color: #191919bd;
+}
+.about-item p{
+    color: #191919bd;
+}
+.about-content{
+    background: #fff;
+    margin-top:25px;
+    padding: 15px 30px;
+}
+.about-content h6{
+    color: #0473b3e3;
+}
+.about-content h2{
+    color: #59b304e3;
+}
+.about-content p{
+    padding: 0 40px 0 0 ;
+    color: #2d2d2ee3;
+}
+.about-heading{
+    margin-top:15px;
+}
+.about-heading p{
+    color: #0473b3e3;
+    font-weight: 500;
+}
+.about-heading h1{
+    color: #59b304e3;
+    margin: 0;
+}

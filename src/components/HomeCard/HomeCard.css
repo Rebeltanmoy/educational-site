@@ -1,0 +1,19 @@
+.more-services{
+    display: block;
+    margin: 0 auto;
+    text-decoration: none;
+    color: rgb(248, 248, 248);
+    font-size: 18px;
+    font-weight: 500;
+    height:50px;
+    width: 130px;
+    line-height:45px;
+    text-align: center;
+    background: #ee9b00;
+    margin-top: 10px;
+    transition:0.5s ease-in-out;
+}
+.more-services:hover{
+    background: #191919;
+    color: #fff;
+}

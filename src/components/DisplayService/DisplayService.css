@@ -1,0 +1,33 @@
+.card-content{
+    transition:0.5s;
+    cursor: pointer;
+}
+.card-content:hover{
+    transform: translateY(-10px);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.card-content .title{
+    color: #242321;
+}
+ img{
+    height:300px;
+}
+Button{
+    background: none;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: #ee9b00;
+    width: 140px;
+    height:45px;
+    border-radius:10px;
+    color: #fff;
+}
+.icon{
+    color: #ee9b00;
+}
+.card-item{
+    display: flex;
+    justify-content: space-between;
+}
